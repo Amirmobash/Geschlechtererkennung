@@ -72,7 +72,7 @@ Visualisierung: Ergebnisse werden mit Rahmen und Beschriftung angezeigt
 Besonderheiten
 Deutsche Benutzeroberfläche und Kommentare
 
-Konfidenzanzeige in Prozent
+Konfidenzanzeige in Prozent Amir Mobasheraghdam
 
 Robuste Gesichtserkennung mit Pufferbereich
 
